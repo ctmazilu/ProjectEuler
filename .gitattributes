@@ -1,3 +1,2 @@
-
-
-*.html linguist-detectable=false
+app/* linguist-documentation=false
+app/* linguist-vendored
