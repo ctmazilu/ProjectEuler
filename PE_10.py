@@ -1,3 +1,6 @@
+# Written 02/26/2021 by Christina Mazilu
+# Project Euler Question 10: https://projecteuler.net/problem=10
+
 allPrimes = []
 
 def prime(n):

@@ -1,3 +1,6 @@
+# Written 02/25/2021 by Christina Mazilu
+# Project Euler Question 7: https://projecteuler.net/problem=7
+
 # allPrime = []
 #
 # def infinity():
